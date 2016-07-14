@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>Page Title</title>
+ </head>
+ <style>
+ h1 {color:pink;}
+ h6 {background-color:purple;}
+ #unique {color:blue;}
+ .h3pens{color:orange;}
+ footer {color:yellow;}
+ h3 {color:red;}
+ body {background-color:gold;}
+ img {width:100px;}
+</style>
+
+<body>
+
+
+<h1>hello world </h1>
+<h6> new world </h6>
+<h6 id="unique"> different world</h6>
+<h6 class="h3pens">home</h6>
+<h4> BLACK matter </h4>
+<h3> school is the place to be </h3>
+<p>This is a paragraph.</p>
+<img src="http://evoomarketplace.com/wp-content/uploads/2013/01/black-cherries.jpg">
+
+</body>
+<footer>
+The end
+</footer>
+</html>
